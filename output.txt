@@ -1,0 +1,5 @@
+total 1
+drwxr-xr-x 1 Jesse 197121  0  9月  1 12:18 archive/
+-rw-r--r-- 1 Jesse 197121 47  9月  1 13:52 input.txt
+-rw-r--r-- 1 Jesse 197121  0  9月  1 13:55 output.txt
+-rw-r--r-- 1 Jesse 197121  0  9月  1 13:46 test2.txt
